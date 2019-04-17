@@ -1,0 +1,16 @@
+.accordion {
+  position: relative;
+  top: 50px;
+  left: 110px;
+  border: 1px solid black;
+  display: flex;
+  width:80%;
+  flex-direction: column;
+  justify-content: center;
+  }
+.card {
+  padding-left: 100px;
+  padding-right: 100px;
+  background-color: #f1f1f1;
+  overflow: hidden;
+}
